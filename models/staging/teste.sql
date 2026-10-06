@@ -1,1 +1,1 @@
-select * from raw.northwind.orders
+select * from raw.northwind.orders 
